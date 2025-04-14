@@ -20,7 +20,6 @@ NgengeSport UI+App Redesign vise à moderniser l'expérience utilisateur de la p
 
 ### Front-End Web
 - React.js
-- Next.js
 - Tailwind CSS
 
 ### Mobile
@@ -35,3 +34,19 @@ NgengeSport UI+App Redesign vise à moderniser l'expérience utilisateur de la p
 ---
 
 ## Organisation du code
+---
+
+## Contribuer
+Ce projet est réalisé par l’équipe **ArenaDev**.  
+Si vous souhaitez contribuer, rejoignez-nous via https://github.com/arenadev-programming/
+---
+
+## Licence
+Projet réalisé à but de démonstration et de proposition.  
+Le backend n’est pas inclus dans ce repository et reste sous la responsabilité de NgengeSport.
+
+---
+
+## Crédits
+**Proposé par :** ArenaDev  
+**Contact :** mail.arenadev@gmail.com
