@@ -38,7 +38,8 @@ NgengeSport UI+App Redesign vise à moderniser l'expérience utilisateur de la p
 
 ## Contribuer
 Ce projet est réalisé par l’équipe **ArenaDev**.  
-Si vous souhaitez contribuer, rejoignez-nous via https://github.com/arenadev-programming/
+Si vous souhaitez contribuer, rejoignez-nous via https://chat.whatsapp.com/Ck4uvDBK4egB7RAbAxzPgV
+puis intégrer le groupe *Nous-Rejoindre*
 ---
 
 ## Licence
