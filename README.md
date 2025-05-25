@@ -21,6 +21,7 @@ NgengeSport UI+App Redesign vise à moderniser l'expérience utilisateur de la p
 ### Front-End Web
 - React.js
 - Tailwind CSS
+- Next.js
 
 ### Mobile
 - React Native
