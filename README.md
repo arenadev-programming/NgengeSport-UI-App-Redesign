@@ -35,8 +35,8 @@ NgengeSport UI+App Redesign vise à moderniser l'expérience utilisateur de la p
 ---
 
 ## Organisation du code
-
 /web        -> App web (React + Next.js) /mobile     -> App mobile (React Native) /desktop    -> App desktop (Electron) /design     -> Maquettes et prototypes (Figma exports) /docs       -> Documents techniques et fonctionnels
+
 ---
 
 ## Contribuer
